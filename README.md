@@ -36,7 +36,7 @@
   </a>
   -->
 
-  <h3 align="center">Dark - Light mode Switcher</h3>
+  <h3 align="center">Single Page Application - React router test </h3>
 
 </div>
 
