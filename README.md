@@ -42,32 +42,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -116,11 +90,11 @@ If it is not installed, [download](https://nodejs.org/en) and install it.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/lalomax/switchmodes.git
+   git clone https://github.com/lalomax/spa-router-test.git
    ```
 1. Open directory
    ```sh
-   cd switchmodes
+   cd spa-router-test
    ```
    
 3. Install NPM packages
@@ -161,6 +135,18 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+```mermaid
+flowchart 
+    A(1. Clone the repository) --> B((Clone Fork))
+    B --> C{2. Create Feature Branch}
+    C --> D[Make Changes]
+    D --> E((3. Commit Changes))
+    E --> F((4. Push Changes))
+    F --> G((5. Create Pull Request))
+    G -- Approved --> H((Merge Pull Request))
+    G -- Rejected --> D
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -174,7 +160,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
+Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - lalomax365.bo@gmail.com
 
 Project Link: [https://github.com/lalomax/spa-router-test](https://github.com/lalomax/spa-router-test)
 
